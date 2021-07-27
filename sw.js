@@ -1,5 +1,7 @@
 var serviceWorkerOption = {
   "assets": [
+    "/defaultVendors~main~678f84af.bundle.js",
+    "/defaultVendors~main~80d50bd5.bundle.js",
     "/defaultVendors~main~d939e436.bundle.js",
     "/main~5785a947.bundle.js",
     "/main~647a7f74.bundle.js",
